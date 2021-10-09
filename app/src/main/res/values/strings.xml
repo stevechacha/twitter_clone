@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitterClone</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hello_guys_i_just_got_a_new_beast">Hello guys! I just got a new beast.</string>
+</resources>
